@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=halo2404)](https://github.com/halo2404/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=halo2404&repo=github-readme-stats)](https://github.com/halo2404/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halo2404)](https://github.com/halo2404/github-readme-stats)
